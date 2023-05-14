@@ -16,6 +16,10 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxed_NJAhA8FbAJ4ScrIPFioNyHCk1K0B3Uvsf1EP82dYtrb2rpweLuEOnTu6rI1COE1wVgLMSrJkPUVUgBG3fVSUFkw=s2560" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </p>
   
 ---
