@@ -5,8 +5,10 @@
 
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 🔭 I’m working as a Software Engineer and contributing to backend for building web and desktop applications.
-- ⚡ In my free time I solve problems on HackerRank and read tech articles.
+- 👨‍💻 Mastering Golang and Python programming languages
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widhofaisal&layout=compact&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/widhofaisal)
