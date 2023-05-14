@@ -9,3 +9,4 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - ⚡ In my free time I solve problems on HackerRank and read tech articles.
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widhofaisal&layout=compact&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/widhofaisal)
