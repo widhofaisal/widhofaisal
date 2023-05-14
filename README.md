@@ -6,6 +6,8 @@
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 - 👨‍💻 Mastering Golang and Python programming languages
+- 🎓 Studying at Dian Nuswantoro University in the final semester
+- 💻 Freelance work working on application projects from clients
 
 ---
 
