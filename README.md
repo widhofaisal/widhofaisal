@@ -5,7 +5,7 @@
 
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 👨‍💻 Mastering <b>Golang</b> and <b>Python</b> programming languages
+- 👨‍💻 Mastering <b>Golang</b>, <b>Python</b>, and <b>Java</b> programming languages
 - 🎓 Studying at Dian Nuswantoro University in the final semester
 - 💻 Freelance work working on application projects from clients
 
@@ -14,8 +14,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 🛠 &nbsp;Languages and Tools :
   
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rT6vpTv2odbM39XndaMToIfno56YFTCi61BX17v9ZoA3cwgYnEPcRMwU11m_CQ6a3cOftixGogQBy2GtFkRBAioOvmSQ=s2560" title="Echo" alt="Echo" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;\
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxed_NJAhA8FbAJ4ScrIPFioNyHCk1K0B3Uvsf1EP82dYtrb2rpweLuEOnTu6rI1COE1wVgLMSrJkPUVUgBG3fVSUFkw=s2560" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
@@ -28,5 +27,3 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widhofaisal&layout=compact&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/widhofaisal)
 
-1
-2
