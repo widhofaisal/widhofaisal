@@ -7,20 +7,21 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 👨‍💻 Mastering <b>Golang</b>, <b>Python</b>, and <b>Java</b> programming languages
 - 🎓 Studying at Dian Nuswantoro University in the final semester
-- 💻 Freelance work working on application projects from clients
+- 💻 Freelance works on application projects such as backends, desktop applications, and simple frontends
+- 🧑🏻‍🏫 Freelance as a programming language instructor at a course institution
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
   
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;\
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxed_NJAhA8FbAJ4ScrIPFioNyHCk1K0B3Uvsf1EP82dYtrb2rpweLuEOnTu6rI1COE1wVgLMSrJkPUVUgBG3fVSUFkw=s2560" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rgmIn0DEcMis_Eq0MvUBHm0D0l75S18bXwN12ueTxJulzngDrUvB84_8XRbL3aJ167igoYXfvC4r-kLMOkGigoaMZ0fQ=s2560" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   </p>
   
 ---
