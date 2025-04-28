@@ -1,30 +1,35 @@
+# Hi there, I'm Widho Faisal! 👋
+### A Passionate Backend Developer from Indonesia 🇮🇩
+</br>
 
-<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/widho-faisal/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+![Visitors](https://komarev.com/ghpvc/?username=widhofaisal&color=blue)
 
-I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+## 🚀 About Me
+I am a Developer with a strong passion for backend development, experienced in building efficient and scalable systems using various programming languages. I am a curious and adaptive learner who enjoys tackling challenges and exploring new technologies. I aspire to contribute to impactful innovations through technology. My motto is :
+> "Finish what you started, and dare to do something you've never done before."
+</br>
 
-- 👨‍💻 Mastering <b>Golang</b>, <b>Python</b>, and <b>Java</b> programming languages
-- 🎓 Studying at Dian Nuswantoro University in the final semester
-- 💻 Freelance works on application projects such as backends, desktop applications, and simple frontends
-- 🧑🏻‍🏫 Freelance as a programming language instructor at a course institution
+## 🛠️ Tech Stack
+- **Languages**: Go, Python, Java, C++
+- **Backend**: REST APIs, gRPC, Microservices Architecture
+- **Databases**: MySQL, PostgreSQL, SQLite, Firebase
+- **Tools & Technologies**: Docker, Github Action, Git, Linux, Postman, Redis
+- **Others**: CI/CD, Cloud Services (AWS/GCP basics), Agile Methodologies
+</br>
 
----
+## 📫 Connect with Me
 
-### 🛠 &nbsp;Languages and Tools :
-  
-  <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  </p>
-  
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widhofaisal&layout=compact&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/widhofaisal)
-
+<p align="left">
+<a href="https://www.linkedin.com/in/widhofaisal/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/widhofaisal/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@banggatutorial" target="_blank">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.tiktok.com/@widhofaisal" target="_blank">
+  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+</p>
