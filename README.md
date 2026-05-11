@@ -57,14 +57,14 @@ I am a Developer with a strong passion for backend development, experienced in b
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=widhofaisal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widhofaisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=widhofaisal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widhofaisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=widhofaisal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=widhofaisal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
